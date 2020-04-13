@@ -1,5 +1,5 @@
 # Employee Directory
-## Git: https://github.com/brittanymorrisdesign/Homework-19 
+## Git: https://github.com/akorjeski/Employee_Directory
 ## Live Demo: https://quiet-oasis-04144.herokuapp.com/ 
 
 ## User Story
