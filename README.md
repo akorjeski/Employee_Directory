@@ -1,6 +1,6 @@
 # Employee Directory
 ## Git: https://github.com/akorjeski/Employee_Directory
-## Live Demo: https://quiet-oasis-04144.herokuapp.com/ 
+## Live Demo: https://pure-headland-14446.herokuapp.com/ 
 
 ## User Story
 As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information.
